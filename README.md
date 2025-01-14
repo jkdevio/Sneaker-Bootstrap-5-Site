@@ -15,8 +15,7 @@ A sleek and responsive **Bootstrap 5** website designed for sneaker enthusiasts.
 - **HTML5**  
 - **CSS3**  
 - **Bootstrap 5**  
-- **JavaScript**
-- **Jquery**  
+- **JavaScript**  
 
 ---
 
